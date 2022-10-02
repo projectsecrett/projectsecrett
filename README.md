@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+    <img href="https://projecterror.dev" width="150" src="https://cdn.discordapp.com/attachments/866258890043817984/1026124464917856338/logo2.png" alt="Material-UI logo" />
+</div><br><br>
 
-<!--
-**projectsecrett/projectsecrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Secret project aims to provide open source projects where everyone can contribute to the project and make it evolve!
+
+* [Join our Discord Server](#)
+* [Read the docs](#)
+
+
+Secret project repositories adopt the Contributor Covenant's Code of Conduct. 
